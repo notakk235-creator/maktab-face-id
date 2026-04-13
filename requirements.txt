@@ -1,0 +1,5 @@
+streamlit
+deepface
+numpy
+Pillow
+requests
